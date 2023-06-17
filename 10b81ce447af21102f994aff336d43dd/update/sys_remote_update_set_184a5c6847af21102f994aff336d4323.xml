@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2023-06-17 02:56:49">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Test Commit GitHub</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>61b91c2847af21102f994aff336d4307</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-06-17 02:56:48</sys_created_on>
+<sys_id>184a5c6847af21102f994aff336d4323</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-06-17 02:56:48</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_cd1a1c6847af21102f994aff336d4371</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;global.UpdateSetTest2&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description/&gt;&lt;name&gt;UpdateSetTest2&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var UpdateSetTest2 = Class.create();
+UpdateSetTest2.prototype = {
+    initialize: function() {
+    },
+
+    type: 'UpdateSetTest2'
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-06-17 02:56:01&lt;/sys_created_on&gt;&lt;sys_id&gt;cd1a1c6847af21102f994aff336d4371&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;UpdateSetTest2&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_cd1a1c6847af21102f994aff336d4371&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-06-17 02:56:01&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1260959294</payload_hash>
+<remote_update_set display_value="Test Commit GitHub">184a5c6847af21102f994aff336d4323</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-06-17 02:56:48</sys_created_on>
+<sys_id>1c4a5c6847af21102f994aff336d4323</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>188c747f5ce0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-06-17 02:56:48</sys_updated_on>
+<table/>
+<target_name>UpdateSetTest2</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>411a1c68b1af2110828403f172894473</update_guid>
+<update_guid_history>411a1c68b1af2110828403f172894473:-1260959294</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_ede9d46847af21102f994aff336d4346</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;global.UpdateSetTest&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description/&gt;&lt;name&gt;UpdateSetTest&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var UpdateSetTest = Class.create();
+UpdateSetTest.prototype = {
+    initialize: function() {
+    },
+
+    type: 'UpdateSetTest'
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-06-17 02:55:45&lt;/sys_created_on&gt;&lt;sys_id&gt;ede9d46847af21102f994aff336d4346&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;UpdateSetTest&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_ede9d46847af21102f994aff336d4346&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-06-17 02:55:45&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-393528364</payload_hash>
+<remote_update_set display_value="Test Commit GitHub">184a5c6847af21102f994aff336d4323</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-06-17 02:56:48</sys_created_on>
+<sys_id>d04a5c6847af21102f994aff336d4324</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>188c747b56a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-06-17 02:56:48</sys_updated_on>
+<table/>
+<target_name>UpdateSetTest</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>8d0adc6816af21102045cf2fb1f16098</update_guid>
+<update_guid_history>8d0adc6816af21102045cf2fb1f16098:-393528364</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
